@@ -1,5 +1,5 @@
 import Header from "../components/Header"
-import Footer from "../components/footer"
+import Footer from "../components/Footer"
 import Hero from "../components/home/Hero"
 import ProgressBar from "../components/ui/ProgressBar"
 import CommercialCoverflow from "../components/ui/commercial/CommercialSpotlight"
