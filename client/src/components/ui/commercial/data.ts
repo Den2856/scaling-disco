@@ -83,4 +83,17 @@ export const COMMERCIALS: CommercialProject[] = [
       { name: "Tailwind", Icon: SiTailwindcss, color: "#38BDF8" },
     ],
   },
+    {
+    id: 18,
+    title: "Dashboard",
+    tag: "Analitics / Marketing",
+    image: "/comercial/6.png",
+    url: "https://stunning-rotary-phone.vercel.app/",
+    glow: "auto",
+    stack: [
+      { name: "React", Icon: SiReact, color: "#61DAFB" },
+      { name: "TypeScript", Icon: SiTypescript, color: "#3178C6" },
+      { name: "Tailwind", Icon: SiTailwindcss, color: "#38BDF8" },
+    ],
+  },
 ];
