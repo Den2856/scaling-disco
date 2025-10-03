@@ -32,6 +32,19 @@ export const COMMERCIALS: CommercialProject[] = [
     ],
   },
   {
+    id: 19,
+    title: "Cinema",
+    tag: "Web App / Theathers",
+    image: "/comercial/7.png",
+    url: "https://sturdy-octo-happiness-seven.vercel.app/",
+    glow: "auto",
+    stack: [
+      { name: "React", Icon: SiReact, color: "#61DAFB" },
+      { name: "TypeScript", Icon: SiTypescript, color: "#3178C6" },
+      { name: "Tailwind", Icon: SiTailwindcss, color: "#38BDF8" },
+    ],
+  },
+  {
     id: 16,
     title: "Planto",
     tag: "Brand / Creative",
