@@ -71,6 +71,19 @@ export const COMMERCIALS: CommercialProject[] = [
     ],
   },
   {
+    id: 20,
+    title: "Positivus",
+    tag: "Analitics / Marketing",
+    image: "/comercial/8.png",
+    url: "https://effective-octo-waffle-zeta.vercel.app/",
+    glow: "auto",
+    stack: [
+      { name: "React", Icon: SiReact, color: "#61DAFB" },
+      { name: "TypeScript", Icon: SiTypescript, color: "#3178C6" },
+      { name: "Tailwind", Icon: SiTailwindcss, color: "#38BDF8" },
+    ],
+  },
+  {
     id: 18,
     title: "Dashboard",
     tag: "Analitics / Marketing",
