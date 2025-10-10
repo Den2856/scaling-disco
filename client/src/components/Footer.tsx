@@ -1,6 +1,5 @@
-// src/components/ui/Footer.tsx
 import { Github, MessageSquare, Send } from "lucide-react";
-import { motion } from "framer-motion";  // Для анимации
+import { motion } from "framer-motion";
 
 const Footer = () => {
   return (
