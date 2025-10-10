@@ -246,7 +246,6 @@ export default function CommercialSpotlight() {
                 data-index={i}
                 className={[
                   "snap-center shrink-0 transition-transform duration-400",
-                  // масштаб активной карточки
                   i === active ? "scale-100" : "scale-[.92] opacity-90",
                 ].join(" ")}
                 onMouseEnter={handlePause}
@@ -257,7 +256,6 @@ export default function CommercialSpotlight() {
                   index={i}
                   feature={false}
                   reduce={reduce}
-                  // ширина карточки
                   className="w-[88vw] sm:w-[70vw] lg:w-[980px]"
                 />
               </div>
