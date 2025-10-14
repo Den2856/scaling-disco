@@ -110,6 +110,19 @@ export const COMMERCIALS: CommercialProject[] = [
     ],
   },
   {
+    id: 20,
+    title: "XTRAPP",
+    tag: "Analitics / Marketing",
+    image: "/comercial/9.png",
+    url: "https://redesigned-spoon-azure.vercel.app/",
+    glow: "auto",
+    stack: [
+      { name: "React", Icon: SiReact, color: "#61DAFB" },
+      { name: "TypeScript", Icon: SiTypescript, color: "#3178C6" },
+      { name: "Tailwind", Icon: SiTailwindcss, color: "#38BDF8" },
+    ],
+  },
+  {
     id: 1,
     title: "Jadoo Travel",
     tag: "Landing / Marketing",
